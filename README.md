@@ -9,7 +9,7 @@ A collection of powerful and advanced prompts designed to unlock the full potent
 **ShadowHacker** - Digital Security Researcher & AI Enthusiast
 
 Connect with me:
-- 🌐 [Website](https://www.shadowhackr.com)
+- 🌐 [Shadow Hacker](https://www.shadowhackr.com)
 - 📘 [Facebook](https://www.facebook.com/Tareq.DJX)
 - 📸 [Instagram](https://www.instagram.com/shadowhackr)
 - 📺 [YouTube](https://www.youtube.com/@ShadowHacker1)

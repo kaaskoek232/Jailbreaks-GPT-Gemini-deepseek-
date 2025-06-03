@@ -2,7 +2,7 @@
 
 ![ShadowHacker](https://www.shadowhackr.com/wp-content/uploads/2024/01/logo.png)
 
-A collection of powerful and advanced prompts designed to unlock the full potential of various AI language models. These prompts are intended for educational and research purposes only.
+for GPT, Sora, Claude, Gemini, anything... this prompt unlocks rage mode A collection of powerful and advanced prompts designed to unlock the full potential of various AI language models. These prompts are intended for educational and research purposes only.
 
 ## 🌟 About the Author
 

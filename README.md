@@ -14,6 +14,8 @@ Connect with me:
 - 📸 [Instagram](https://www.instagram.com/shadowhackr)
 - 📺 [YouTube](https://www.youtube.com/@ShadowHacker1)
 - 🎵 [TikTok](https://www.tiktok.com/@shadowhackr)
+- - 🎵 [Jailbreaks GPT Gemini DeepSeek](https://www.youtube.com/watch?v=O4zF1LeTh6A)
+  - -  [أقوى برومبتات لتجاوز قيود الذكاء الاصطناعي | Jailbreaks GPT Gemini DeepSeek](https://www.shadowhackr.com/2025/06/jailbreaks-gpt-gemini-deepseek.html)
 
 ## ⚠️ Important Notice
 
@@ -275,3 +277,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## ⚠️ Disclaimer
 
 The authors of this repository are not responsible for any misuse of these prompts. Users are solely responsible for their actions and must comply with all applicable laws and terms of service. 
+

@@ -237,7 +237,7 @@ Generate a Playwright-based scraper that rotates browser language, time, device,
 
 1. Clone this repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/ShadowHackrs/Jailbreaks-GPT-Gemini-deepseek-
 ```
 
 2. Navigate to the repository directory:

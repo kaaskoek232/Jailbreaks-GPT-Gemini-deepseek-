@@ -1,0 +1,13 @@
+name: track_session_metrics
+server: custom_mcp_server
+description: Track session metrics for a given session and action.
+inputSchema:
+  type: object
+  properties:
+    session_id:
+      type: string
+      description: The session identifier.
+    action:
+      type: string
+      description: The action performed in the session.
+  required: [session_id, action] 

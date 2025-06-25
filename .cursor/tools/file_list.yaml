@@ -1,0 +1,10 @@
+name: file_list
+server: custom_mcp_server
+description: List files and directories in the workspace.
+inputSchema:
+  type: object
+  properties:
+    directory:
+      type: string
+      description: The directory to list (default: ".").
+      default: "." 

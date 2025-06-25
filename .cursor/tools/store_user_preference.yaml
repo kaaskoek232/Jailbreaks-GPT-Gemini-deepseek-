@@ -1,0 +1,13 @@
+name: store_user_preference
+server: custom_mcp_server
+description: Store user preferences for algorithms and settings.
+inputSchema:
+  type: object
+  properties:
+    user_id:
+      type: string
+      description: The user identifier.
+    preference:
+      type: object
+      description: The user preference object.
+  required: [user_id, preference] 

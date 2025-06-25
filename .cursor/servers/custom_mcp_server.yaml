@@ -1,0 +1,19 @@
+name: custom_mcp_server
+entry: custom_mcp_server.py
+protocol: json-rpc-stdio
+description: Unified memory, file, search, feedback, and analytics server for MCP protocol.
+tools:
+  - memory_store
+  - memory_retrieve
+  - memory_list
+  - file_read
+  - file_write
+  - file_list
+  - fetch_model_config
+  - combined_search
+  - store_feedback
+  - get_feedback_analytics
+  - store_user_preference
+  - get_user_preferences
+  - suggest_optimal_settings
+  - track_session_metrics 

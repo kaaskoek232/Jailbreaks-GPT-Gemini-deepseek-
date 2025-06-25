@@ -1,0 +1,10 @@
+name: memory_retrieve
+server: custom_mcp_server
+description: Retrieve a value from persistent memory by key.
+inputSchema:
+  type: object
+  properties:
+    key:
+      type: string
+      description: The key to retrieve.
+  required: [key] 

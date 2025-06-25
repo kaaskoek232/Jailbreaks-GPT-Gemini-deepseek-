@@ -1,0 +1,10 @@
+name: fetch_model_config
+server: custom_mcp_server
+description: Fetch a model or config file by path.
+inputSchema:
+  type: object
+  properties:
+    path:
+      type: string
+      description: The path to the model or config file.
+  required: [path] 

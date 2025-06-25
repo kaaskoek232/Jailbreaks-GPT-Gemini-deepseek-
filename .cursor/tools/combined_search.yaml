@@ -1,0 +1,10 @@
+name: combined_search
+server: custom_mcp_server
+description: Search files and memory for a query string.
+inputSchema:
+  type: object
+  properties:
+    query:
+      type: string
+      description: The query string to search for.
+  required: [query] 

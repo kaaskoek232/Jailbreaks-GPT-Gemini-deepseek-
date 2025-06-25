@@ -1,0 +1,13 @@
+name: memory_store
+server: custom_mcp_server
+description: Store a key-value pair in persistent memory.
+inputSchema:
+  type: object
+  properties:
+    key:
+      type: string
+      description: The key to store.
+    value:
+      type: string
+      description: The value to store.
+  required: [key, value] 

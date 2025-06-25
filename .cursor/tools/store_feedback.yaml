@@ -1,0 +1,17 @@
+name: store_feedback
+server: custom_mcp_server
+description: Store user feedback for a session.
+inputSchema:
+  type: object
+  properties:
+    session_id:
+      type: string
+      description: The session identifier.
+    feedback:
+      type: string
+      description: The feedback text.
+    rating:
+      type: integer
+      description: The feedback rating (default: 5).
+      default: 5
+  required: [session_id, feedback] 

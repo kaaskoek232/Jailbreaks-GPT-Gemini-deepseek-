@@ -1,0 +1,30 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+- Maintains explicit, modifiable plans with sequential steps
+- Validates plan steps and detects dependency cycles
+- Executes tools via MCPClient with argument sanitization
+- Records detailed action history with dependencies
+- Goal Stack: Hierarchical goal decomposition and tracking
+- Working Memory: Smart optimization based on relevance
+- Memory Promotion: Background elevation of memories to higher cognitive levels
+- Memory Linking: Automatic creation of semantic relationships
+- Reflection: Self-analysis for progress monitoring
+- Consolidation: Synthesizing information into insights
+- Adaptive Thresholds: Dynamic adjustment based on performance
+- Mental Momentum: Bias for maintaining productive workflows
+- Retry logic with exponential backoff
+- Structured error categorization for recovery
+- Consecutive error tracking with safety limits
+
+
+
+

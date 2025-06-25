@@ -1,0 +1,9 @@
+name: suggest_optimal_settings
+server: custom_mcp_server
+description: Suggest optimal settings based on user feedback analytics.
+inputSchema:
+  type: object
+  properties:
+    user_id:
+      type: string
+      description: The user identifier (optional). 

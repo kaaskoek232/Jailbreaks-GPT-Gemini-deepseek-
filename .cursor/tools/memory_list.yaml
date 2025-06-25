@@ -1,0 +1,6 @@
+name: memory_list
+server: custom_mcp_server
+description: List all keys in persistent memory.
+inputSchema:
+  type: object
+  properties: {} 

@@ -1,0 +1,13 @@
+name: file_write
+server: custom_mcp_server
+description: Write content to a file in the workspace.
+inputSchema:
+  type: object
+  properties:
+    path:
+      type: string
+      description: The path to the file to write.
+    content:
+      type: string
+      description: The content to write to the file.
+  required: [path, content] 

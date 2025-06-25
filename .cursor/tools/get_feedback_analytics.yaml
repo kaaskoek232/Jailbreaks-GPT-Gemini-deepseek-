@@ -1,0 +1,6 @@
+name: get_feedback_analytics
+server: custom_mcp_server
+description: Get analytics on user feedback.
+inputSchema:
+  type: object
+  properties: {} 
